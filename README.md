@@ -25,11 +25,6 @@ git clone https://github.com/h00per22/Air-Canvas-Executable.git
 1. Open `index.html` in your browser.
 2. Start creating your masterpiece!
 
-## 📞 Contact
-For further questions or support, please reach out:
-- **Email:** support@aircanvas.com
-- **Twitter:** [@AirCanvas](https://twitter.com/AirCanvas)
-
 ## 🎉 Contribute!
 We welcome contributions! Please fork the repository and submit a pull request for any enhancements or fixes that you can provide.
 
